@@ -1,0 +1,7 @@
+Нейронные сети курсовая:
+1) Собаки против котов: https://habrahabr.ru/post/321834/
+2) https://www.asozykin.ru/deep_learning/2017/06/20/image-classification-using-neural-networks
+3) https://www.asozykin.ru/deep_learning/2018/01/06/how-to-prepare-image-dataset-for-keras
+4) https://www.asozykin.ru/deep_learning/2018/01/08/transfer-learning-in-keras
+5) Установка Theano: http://re9ulus.github.io/2017/03/09/theano-win-install/
+6) 
