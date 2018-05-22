@@ -1,7 +1,14 @@
-/1.jpg
-/val
+﻿/val
 /train
 /test
+/test_car
+/test_car2
+/test_moto
 /cars_train
-/.ipynb_checkpoints
-/Веса старых версий
+/InceptionV3.h5
+/InceptionV3.json
+/VGG16.h5
+/VGG16.json
+/VGG19.h5
+/VGG19.json
+/all
